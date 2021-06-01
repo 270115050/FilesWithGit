@@ -1,2 +1,3 @@
 ﻿  FileWithGit.cpp
-  FileWithGit.vcxproj -> C:\Users\270115050\OneDrive - UP Education\Desktop\Lab4\member2\FilesWithGit\Debug\FileWithGit.exe
+C:\Users\270115050\OneDrive - UP Education\Desktop\Lab4\member1\FileWithGit\FileWithGit\FileWithGit.cpp(15,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  FileWithGit.vcxproj -> C:\Users\270115050\OneDrive - UP Education\Desktop\Lab4\member1\FileWithGit\Debug\FileWithGit.exe
